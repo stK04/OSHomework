@@ -8,3 +8,6 @@ add_executable(PR1
 
 add_executable(PR2
         PR2/main.c)
+
+add_executable(PR3
+        PR3/main.c)
